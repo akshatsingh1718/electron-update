@@ -13,7 +13,7 @@
       {
         "provider": "github",
         "owner": "akshatsingh1718",
-        "repo": "test-electron-updater"
+        "repo": "electron-update"
       }
     ]
   },
